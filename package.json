@@ -1,7 +1,7 @@
 {
-  "name": "laravel-model-generator",
+  "name": "laravel-migration-model",
   "icon": "assets/icon.png",
-  "displayName": "Laravel Model Generator",
+  "displayName": "Laravel Migration Model Generator",
   "description": "Automatically generate Laravel Model based on migrations",
   "version": "0.0.1",
   "engines": {

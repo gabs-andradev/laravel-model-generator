@@ -28,7 +28,7 @@ Abra o projeto no VSCode, pressione `F5` para iniciar a extensão em modo de des
 
 1. Abra uma migration do Laravel.
 2. Pressione `Ctrl+Shift+P` e execute:  
-   **"Laravel: Gerar Model a partir da Migration"**
+   **"Laravel: Generate Model"**
 3. A extensão irá:
    - Detectar todas as tabelas da migration.
    - Gerar os arquivos em `app/Models/NomeModel.php`.
