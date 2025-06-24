@@ -11,7 +11,7 @@ Gere automaticamente **Models do Laravel** a partir das suas **Migrations**, com
 
 ---
 
-## 📦 Instalação
+## Instalação
 
 ```bash
     git clone https://github.com/gabs-andradev/laravel-model-generator
@@ -50,7 +50,7 @@ Schema::connection('pgsql_myconnection')->create('clients', function (Blueprint 
 
 ---
 
-## 📄 Modelo Gerado
+## Modelo Gerado
 
 ```php
 <?php
@@ -92,7 +92,7 @@ class Client extends Model
 
 ---
 
-## ✅ Recursos Suportados
+## Recursos Suportados
 
 - [x] Suporte a múltiplas tabelas por migration
 - [x] `fillable` com base nos campos
@@ -103,7 +103,7 @@ class Client extends Model
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -124,7 +124,7 @@ Gabriel Andrade
 
 ---
 
-## 🧪 Contribuindo
+## Contribuindo
 
 Sinta-se livre para abrir **PRs**, **issues**, ou sugerir melhorias.  
 Este projeto foi feito para facilitar a vida de quem ama Laravel tanto quanto VSCode. ❤️
